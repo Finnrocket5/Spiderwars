@@ -1,0 +1,1 @@
+global.Life = 3

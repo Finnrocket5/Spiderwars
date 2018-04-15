@@ -7,17 +7,9 @@ draw_set_font(Fnt_pxl);
 draw_set_color(c_yellow);
 draw_text_ext_transformed(x+100,y,"Command Guide",4,300,.8,1,0);
 draw_set_color(c_white);
-for (var i = 0; i < array_height_2d(Obj_console.commands); i++) {
-	if (i >= 1) {
-		draw_text_ext_transformed(x+118,y + 258,"func_boom",4,300,.7,1,0);
-		draw_text_ext_transformed(x+118,y + 290,"Type \"" +Obj_console.commands[i, 0] + "\" Cooldown = " +string(commands_info[2, i-1]) + " sec.",28,300,.5,.8,0);
-	} else {
-		draw_text_ext_transformed(x+118,(y + 64)+(194*i),commands_info[0, i],4,300,.7,1,0);
-		if (i != 4) {
-			draw_text_ext_transformed(x+118,(y + 96)+(194*i),commands_info[1, i] + "Type \" " + Obj_console.commands[i, 0]+"\"",28,300,.5,.8,0);	
-		} else {
-			str2 = string_delete(Obj_console.commands[i, 0], 13, string_length(Obj_console.commands[i, 0])-13);
-			draw_text_ext_transformed(x+118,(y + 96)+(194*i),commands_info[1, i] + "Type \" " + str2+"\" (one/two/three)",28,300,.5,.8,0);		
-		}
-	}
-}
+draw_text_ext_transformed(x+118,y + 64,"obj_mine",4,300,.7,1,0);
+draw_text_ext_transformed(x+118,y + 96,"Sets a mine that destroys the first enemy that comes in contact. Type \"inst_create_mine\"",28,300,.5,.8,0);
+draw_text_ext_transformed(x+118,y + 258,"func_boom",4,300,.7,1,0);
+draw_text_ext_transformed(x+118,y + 290,"All enemies in play are hit for 1 Hp. Type \"func_boom.\" Cooldown = 15 sec.",28,300,.5,.8,0);
+draw_text_ext_transformed(x+118,y + 452,"func_wipe",4,300,.7,1,0);
+draw_text_ext_transformed(x+118,y + 484,"Enemy speed is stopped for xx seconds. Type \"func_wipe.\" Cooldown = 20 sec.",28,300,.5,.8,0);

@@ -1,1 +1,14 @@
-image_speed = 0
+image_speed = 0;
+commands_info[0, 0] = "obj_mine";
+commands_info[1, 0] = "Sets a mine that destroys the first enemy that comes in contact."
+commands_info[0, 1] = "func_boom";
+commands_info[1, 1] = "All enemies in play are hit for 1 Hp. ";
+commands_info[2, 0] = 15;
+commands_info[0, 2] = "func_wipe";
+commands_info[1, 2] = "Enemy speed is stopped for xx seconds.";
+commands_info[2, 2] = 20;
+commands_info[2, 3] = "";
+commands_info[0, 3] = "scr_exe_destroy";
+commands_info[1, 3] = "destroys a viroid.";
+commands_info[0, 4] = "spr_get_tgt";
+commands_info[1, 4] = "Lock on to gates.";

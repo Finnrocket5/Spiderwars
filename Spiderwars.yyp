@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "0afedfd4-5797-4f69-8f02-2e198ae5ae31",
+            "Value": {
+                "id": "f3c7b82f-1791-4ec1-9ad7-69e2fc755134",
+                "resourcePath": "sprites\\sprite6\\sprite6.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0d96449e-0b8e-4503-b85c-b0fe22bc01ba",
             "Value": {
                 "id": "fc39a2d1-527a-4fff-9cee-fcd46ac95837",
@@ -188,6 +196,14 @@
                 "id": "55bab1ca-c326-47b6-abd5-1132ee48778c",
                 "resourcePath": "scripts\\aStar_get_neighbor_position\\aStar_get_neighbor_position.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "470e7790-8f3d-4c10-985c-cf65168bde7d",
+            "Value": {
+                "id": "789ce730-2373-480f-99df-d69788584b29",
+                "resourcePath": "tilesets\\tile_ani\\tile_ani.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
@@ -575,6 +591,14 @@
             }
         },
         {
+            "Key": "c090bea1-0f04-4956-af0a-f448928c109d",
+            "Value": {
+                "id": "a6ae9a85-e901-4a70-a7b3-6bbb75f64e35",
+                "resourcePath": "scripts\\scr_command\\scr_command.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "c0fc0398-2366-4abb-be28-8e49464287d1",
             "Value": {
                 "id": "71e8695e-b956-4eba-b91b-277d8e780b02",
@@ -599,19 +623,19 @@
             }
         },
         {
+            "Key": "cb36211e-84b4-431b-9d62-00129a0b87d3",
+            "Value": {
+                "id": "62548cf6-dda5-4154-bddf-d265b70ff03d",
+                "resourcePath": "sprites\\spr_virus\\spr_virus.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "8e279985-09a1-4bf8-ad9b-3b7248599709",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
-            }
-        },
-        {
-            "Key": "cf44b6cf-2acb-4ff0-8d0f-90d60d9bf01e",
-            "Value": {
-                "id": "77f6b348-a693-49ea-b915-9dc81cea592b",
-                "resourcePath": "extensions\\AStar_Pathfinding\\AStar_Pathfinding.yy",
-                "resourceType": "GMExtension"
             }
         },
         {
@@ -733,7 +757,8 @@
         "da69b968-db76-4c01-8986-627e0c21ed95",
         "10910a1f-4616-4dc8-92cf-960bd843e049",
         "66ab61a5-867a-4eeb-afb3-a30cf2329359",
-        "75fca787-1cef-4a6d-aafc-e503962a3c88"
+        "75fca787-1cef-4a6d-aafc-e503962a3c88",
+        "c090bea1-0f04-4956-af0a-f448928c109d"
     ],
     "tutorial": ""
 }

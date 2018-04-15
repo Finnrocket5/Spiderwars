@@ -2,3 +2,5 @@
 #macro HP 0
 #macro SPEED 1
 #macro DEFENSE 2
+#macro ENEMY_VIRUS 1
+#macro SPRITE 3

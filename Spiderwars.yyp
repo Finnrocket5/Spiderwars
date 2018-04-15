@@ -47,7 +47,43 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "161bfd0f-7c24-4af4-ba4b-69565be5852b",
+=======
+            "Key": "06a27f49-2de0-4a9a-a507-0e8f72b85f07",
+            "Value": {
+                "id": "1e0f86fc-9131-4ec8-ab40-6f40d562c557",
+                "resourcePath": "scripts\\aStar_heuristic_cost\\aStar_heuristic_cost.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "0d96449e-0b8e-4503-b85c-b0fe22bc01ba",
+            "Value": {
+                "id": "fc39a2d1-527a-4fff-9cee-fcd46ac95837",
+                "resourcePath": "scripts\\aStar_set_cutting_blocked_corners\\aStar_set_cutting_blocked_corners.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "10910a1f-4616-4dc8-92cf-960bd843e049",
+            "Value": {
+                "id": "d78b67c2-ffed-4423-9fc9-60c3333e662b",
+                "resourcePath": "scripts\\@instance_create\\instance_create.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "1335c4d4-d528-4709-b732-73016b9504cf",
+            "Value": {
+                "id": "7cd9a0a0-9888-4c0f-aee7-0d9c54d92371",
+                "resourcePath": "scripts\\init_macros\\init_macros.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "1c004bfa-8902-4411-acb0-b5efe7670174",
+>>>>>>> parent of 756683d... Upload Shadow VI
             "Value": {
                 "id": "0a3d7998-c785-4005-8585-ba79e40aaeb4",
                 "resourcePath": "objects\\Init_Title\\Init_Title.yy",
@@ -111,7 +147,59 @@
             }
         },
         {
+<<<<<<< HEAD
             "Key": "5e035939-bf39-48d7-a3c8-1017712b2420",
+=======
+            "Key": "3a90283f-c969-491c-af8a-6b6dfff35cd1",
+            "Value": {
+                "id": "57eca3a6-c0be-445b-9966-a27518505f7b",
+                "resourcePath": "views\\3a90283f-c969-491c-af8a-6b6dfff35cd1.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "46b1aebd-9c25-4862-bbc1-d1daa1358d5d",
+            "Value": {
+                "id": "55bab1ca-c326-47b6-abd5-1132ee48778c",
+                "resourcePath": "scripts\\aStar_get_neighbor_position\\aStar_get_neighbor_position.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "4ac5526e-4e8c-4e97-967b-d5d997c96e0a",
+            "Value": {
+                "id": "5cb06a01-29d3-48b9-946c-bcceabfe0666",
+                "resourcePath": "scripts\\position_get_y\\position_get_y.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "4cb75a5e-316f-4efd-8fe6-1744d346cb67",
+            "Value": {
+                "id": "5715e367-c9b0-4bec-ae08-1236276bd827",
+                "resourcePath": "objects\\obj_controller\\obj_controller.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "516403dc-024b-4f5c-88ae-31c450a90775",
+            "Value": {
+                "id": "c0244e94-19ec-43ba-b569-5cc57c28edb9",
+                "resourcePath": "views\\516403dc-024b-4f5c-88ae-31c450a90775.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "5468be98-e86a-4dbc-8f68-0f80876fdb4a",
+            "Value": {
+                "id": "b2ebb9c9-d7bb-4feb-9111-0457c733b8f3",
+                "resourcePath": "scripts\\aStar_find_path\\aStar_find_path.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "5662c8a2-3f8f-4cb9-8230-bc4e73201ec7",
+>>>>>>> parent of 756683d... Upload Shadow VI
             "Value": {
                 "id": "21d00b62-81f2-493e-a8f0-1c538d2a6bda",
                 "resourcePath": "sprites\\Invisible\\Invisible.yy",
@@ -255,6 +343,17 @@
             }
         },
         {
+<<<<<<< HEAD
+=======
+            "Key": "c0fc0398-2366-4abb-be28-8e49464287d1",
+            "Value": {
+                "id": "71e8695e-b956-4eba-b91b-277d8e780b02",
+                "resourcePath": "scripts\\aStar_close\\aStar_close.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+>>>>>>> parent of 756683d... Upload Shadow VI
             "Key": "c105988b-6500-4ad6-8de3-10a1408e1b55",
             "Value": {
                 "id": "4d424ed5-4dec-4e50-9dc1-0fab8acff448",
@@ -263,11 +362,30 @@
             }
         },
         {
+<<<<<<< HEAD
+=======
+            "Key": "c9d07a64-e1cb-4740-9644-4cae2065c067",
+            "Value": {
+                "id": "68885f3a-7f40-4372-9117-fd634ef218f0",
+                "resourcePath": "scripts\\aStar_get_blocked\\aStar_get_blocked.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
+>>>>>>> parent of 756683d... Upload Shadow VI
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "8e279985-09a1-4bf8-ad9b-3b7248599709",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cf44b6cf-2acb-4ff0-8d0f-90d60d9bf01e",
+            "Value": {
+                "id": "77f6b348-a693-49ea-b915-9dc81cea592b",
+                "resourcePath": "extensions\\AStar_Pathfinding\\AStar_Pathfinding.yy",
+                "resourceType": "GMExtension"
             }
         },
         {
@@ -312,7 +430,40 @@
         }
     ],
     "script_order": [
+<<<<<<< HEAD
         
+=======
+        "1335c4d4-d528-4709-b732-73016b9504cf",
+        "1c004bfa-8902-4411-acb0-b5efe7670174",
+        "a32c9833-23d7-4373-a8f6-25079bdcf620",
+        "6f42b9c5-97c7-4b7b-9422-b8a2d027232d",
+        "5ed8173f-d019-49fc-9e2b-c05e7ef9d395",
+        "4ac5526e-4e8c-4e97-967b-d5d997c96e0a",
+        "c9d07a64-e1cb-4740-9644-4cae2065c067",
+        "74e6558b-a522-4204-b83c-13aeec9c7eeb",
+        "f86354fb-3852-4d0f-bb21-9565e351c4bd",
+        "952c280b-d380-4e9f-81ce-51d877b1d335",
+        "5cfa95b4-1339-4bcb-9164-eee29131965b",
+        "9739e1b3-9f8f-4b8f-8d62-480c87c9ad67",
+        "02eb5ef0-7f91-4f11-ae13-3baf0530b995",
+        "af3b68e1-f759-40a8-afdc-735e4d581159",
+        "7cdfb5d8-aeac-4591-9fbe-f3566c1f1bfa",
+        "0d96449e-0b8e-4503-b85c-b0fe22bc01ba",
+        "5ae421de-7511-45be-9f2a-0a849a32592e",
+        "b68e98cb-8690-409e-900e-1f706604f5d8",
+        "db438515-d22a-41df-818c-cf8fbdb90495",
+        "5662c8a2-3f8f-4cb9-8230-bc4e73201ec7",
+        "c0fc0398-2366-4abb-be28-8e49464287d1",
+        "5468be98-e86a-4dbc-8f68-0f80876fdb4a",
+        "06a27f49-2de0-4a9a-a507-0e8f72b85f07",
+        "46b1aebd-9c25-4862-bbc1-d1daa1358d5d",
+        "3406c34b-f25c-4b31-9d98-a096e26794c5",
+        "85216450-08f1-4282-8ec6-58491fd0fb94",
+        "da69b968-db76-4c01-8986-627e0c21ed95",
+        "10910a1f-4616-4dc8-92cf-960bd843e049",
+        "66ab61a5-867a-4eeb-afb3-a30cf2329359",
+        "75fca787-1cef-4a6d-aafc-e503962a3c88"
+>>>>>>> parent of 756683d... Upload Shadow VI
     ],
     "tutorial": ""
 }
